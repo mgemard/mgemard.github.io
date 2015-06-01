@@ -1,0 +1,17 @@
+{
+  "name": "mgemard.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mgemard/mgemard.github.io",
+  "authors": [
+    "mgemard <mathieu.gemard@gmail.com>"
+  ],
+  "description": "CV",
+  "main": "index.html","include/css/custom.css"
+  "keywords": [
+    "CV"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.4"
+  }
+}
