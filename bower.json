@@ -6,7 +6,7 @@
     "mgemard <mathieu.gemard@gmail.com>"
   ],
   "description": "CV",
-  "main": "index.html","include/css/custom.css"
+  "main": "index.html",
   "keywords": [
     "CV"
   ],

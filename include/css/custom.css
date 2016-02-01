@@ -241,4 +241,7 @@ background:rgb(48, 75, 122);;
 	  
 
 	  
-	  
+	  img.logo-voiture  {
+    width:20px;
+    margin:10px;
+}
