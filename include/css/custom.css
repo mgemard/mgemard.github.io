@@ -240,9 +240,23 @@ html,
 }
 
 
+a img {
+  width:32px;
+  height:32px;  
+    border-radius: 5px;
+}
+
 
 a.github-link {
-  margin-left:60px;
+  margin-left:15px;
+}
+
+a.linkedin-link {
+  margin-left:10px;
+}
+
+a.viadeo-link {
+  margin-left:10px;
 }
 	  
 
