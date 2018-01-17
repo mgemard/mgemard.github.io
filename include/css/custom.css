@@ -261,11 +261,20 @@ a.viadeo-link {
 	  
 
 
+.list-unstyled > li {
+  padding: 5px 0px;
+}
+
+.blog-post-description {
+
+  padding: 5px 0px;
+}
+
 
     /* Logo */
 
 	  
-img.logo-voiture  {
+img.logo-voiture  {  
   width:20px;
   margin:10px;
-}
+}  
