@@ -1,0 +1,39 @@
+
+
+/* portefolio */
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    #portefolio {
+        padding-top: 20px;
+    }
+ }
+
+ #portefolio {
+    padding-left: 30px;
+}
+
+ #back-button {
+    color: grey;
+    font-size: 250%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 100px;
+    line-height: 90px;
+    text-align: center;
+    background: linear-gradient(to right,  rgb(224, 224, 224), rgba(255,0,0,0));
+ }
+
+ #back-button:hover {
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(to right,  rgb(163, 163, 163), rgba(255,0,0,0));
+
+ }
+
+
+ .project-image:hover {
+    cursor:pointer;
+ }
